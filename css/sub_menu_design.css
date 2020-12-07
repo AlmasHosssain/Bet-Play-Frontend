@@ -1,0 +1,135 @@
+.sub-manu-side{
+	padding-top:120px;
+	
+}
+.sub-manu-side .sub-manu-side-design{
+	box-shadow: 0px 8px 11px -2px rgba(0,0,0,0.15);
+	padding-top:20px;
+	padding-bottom:20px;
+	border-bottom:3px solid #009961;
+	border-radius: 20px 20px 0px 0px;
+}
+.sub-manu-side .sub-manu-side-design center>h3{
+	padding-bottom:5px;
+	color:#009961;
+	font-weight:bold;
+}
+.sub-manu-side .sub-manu-side-design center>h5{
+	font-size:12px;
+}
+ .sub-manu-side .sub-manu-side-design .form-group{
+	margin-top:30px;
+}
+.sub-manu-side .sub-manu-side-design p{
+	margin-top:25px;
+	color:white;
+	word-spacing:2px;
+}
+.sub-manu-side .sub-manu-side-design p a{
+	text-decoration:none;
+	color:#686767;
+	transition:0.1s;
+	
+}
+.sub-manu-side .sub-manu-side-design p a:hover{
+	color:#443030;
+	transition:0.1s;
+}
+.sub-manu-side .sub-manu-side-design .form-group label{
+	
+	margin-left:0px;
+	font-size:13px;
+	color:rgba(0,0,0,0.7);
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.sub-manu-side .sub-manu-side-design .form-group input{
+    font-size:12px;
+    
+    display:block;
+	color: #7A7878;
+   
+	background:none;
+    border:none;
+	outline:none;
+	box-shadow:none;
+    border-bottom:1px solid rgba(0,0,0,0.1);
+}
+.sub-manu-side .sub-manu-side-design .form-group select{
+    font-size:12px;
+	background:none;
+    border:none;
+	outline:none;
+	box-shadow:none;
+	background:none;
+	text-decoration:none;
+    border-bottom:1px solid rgba(0,0,0,0.1);
+	
+}
+
+.sub-manu-side .sub-manu-side-design  .form-group select option{
+   font-size:12px;
+   color:black;
+ 
+   
+}
+.sub-manu-side .sub-manu-side-design .form-group input:focus{
+    outline:none; 
+    border:none;	
+    box-shadow:none;
+    border-bottom:1px solid #009961;
+}
+.sub-manu-side .sub-manu-side-design .form-group input:hover,.signup-side .col-md-6 .form-group select:hover{
+    outline:none; 
+    border:none;	
+    box-shadow:none;
+    border-bottom:1px solid #009961;
+}
+.sub-manu-side .sub-manu-side-design .form-group select:focus{
+    outline:none; 
+    border:none;	
+    box-shadow:none;
+    border-bottom:1px solid #009961;
+}
+.sub-manu-side .sub-manu-side-design  .btn{
+	margin-bottom:30px;
+	margin-top:40px;
+}
+.sub-manu-side .sub-manu-side-design .btn{
+	background:#009961;
+	padding:10px 0px 10px 0px;
+	border:none;
+	border-radius:0px;
+}
+.sub-manu-side .sub-manu-side-design .btn:hover{
+	
+	opacity:0.8;
+}
+
+.sub-manu-side .sub-manu-side-design .btn:active, .open .btn {
+      background:#009961;
+     border:0px;
+	outline:none;
+	border-radius:0px;
+    }
+.sub-manu-side .sub-manu-side-design button:focus{
+	 
+	 outline:none;
+	
+}
+.sub-manu-side .sub-manu-side-design .table-responsive .table{
+	
+	font-size:14px;
+}
+
+
+
+
+
+
+.my-follow h3{
+	margin-bottom:20px;
+}
+.make-deposit #n-coin{
+	color:rgba(0,0,0,0.5);
+}
